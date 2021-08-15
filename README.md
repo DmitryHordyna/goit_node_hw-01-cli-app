@@ -1,6 +1,6 @@
 Hello
 
-If you want to do somethint with contacts ,please write in terminal command
+If you want to do somethings with contacts ,please write in terminal command
 '--action' or short variant '-a'.
 
 Possible call value:
