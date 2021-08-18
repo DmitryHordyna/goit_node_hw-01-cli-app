@@ -12,5 +12,5 @@ Possible call value:
   command "--id" with the desired value contact.
 - add - add new contact.You must write three new command in rotation > --n or
     --name "..." --e or --email "....." --p or --phone "...." For example: <
-    --action add -n "Dima" -e "hordynadmytro@gmail.com" -p "0937587549" >
+    --action add -n "Dima" -e "ads@gmail.com" -p "32423423234" >
 
