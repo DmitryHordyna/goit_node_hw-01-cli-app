@@ -14,9 +14,3 @@ Possible call value:
     --name "..." --e or --email "....." --p or --phone "...." For example: <
     --action add -n "Dima" -e "hordynadmytro@gmail.com" -p "0937587549" >
 
-
-Screenshot :
-https://ibb.co/6PR6T25
-https://ibb.co/zbPrvbK
-https://ibb.co/WBs0yCj
-https://ibb.co/8YKVrws
