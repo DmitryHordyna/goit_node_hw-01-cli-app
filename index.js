@@ -15,9 +15,9 @@ program.parse(process.argv);
 const argv = program.opts();
 
 async function invokeAction({ action, id, name, email, phone }) {
-  const contactList = await operationsContacts.listContacts();
   switch (action) {
     case 'list':
+      const contactList = await operationsContacts.listContacts();
       console.table(contactList);
       break;
 

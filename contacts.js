@@ -1,5 +1,6 @@
 const fs = require('fs/promises');
 const path = require('path');
+const { v4 } = require('uuid');
 
 const contactsPatch = path.join(__dirname, '/db/contacts.json');
 
@@ -64,7 +65,7 @@ async function addContact(name, email, phone) {
       name,
       phone,
       email,
-      id: contacts.length + 1,
+      id: v4(),
     };
     contacts.push(newContact);
 
